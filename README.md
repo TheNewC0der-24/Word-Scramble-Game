@@ -18,7 +18,9 @@ you will see the message _"Opps ☹️!! It's Incorrect. Please try again."_
 </p>
 
 ## Link 
+```
 https://thenewc0der-24.github.io/Word-Scramble-Game/
+```
 
 ***
 <h3 align="center">Hope you like this 😊 !!
